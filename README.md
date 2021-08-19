@@ -88,4 +88,3 @@ php artisan change:status
 ## Autor ✒️
 
 * **Cruz Eduardo López Sandoval 👹 ** -  [CruzLS](https://github.com/CruzLS)
-# laravelLib
